@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm a frontend developer Jr. and I'm excited about building awesome things.
 
