@@ -26,9 +26,9 @@ Things I learned:
 - Apply intersection observer to optimize image loading
 - Use location.hash to navigate in the app
 
-👉🏼 [Discover your new favorite movie](https://ferchoeth.github.io/top-rated-movies/)
+<a href="https://ferchoeth.github.io/top-rated-movies/" target="_blank">👉🏼 Discover your new favorite movie</a>
 
-👉🏼 [See the code](https://github.com/ferchoeth/top-rated-movies)
+<a href="https://github.com/ferchoeth/top-rated-movies" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -41,9 +41,9 @@ Things I learned:
 - Generate event listeners
 - Implement classes on JavaScript
 
-👉🏼 [Go fight](https://ferchoeth.github.io/Batalla-de-Mokepones/)
+<a href="https://ferchoeth.github.io/Batalla-de-Mokepones/" target="_blank">👉🏼 Go fight</a>
 
-👉🏼 [See the code](https://github.com/ferchoeth/Batalla-de-Mokepones)
+<a href="https://github.com/ferchoeth/Batalla-de-Mokepones" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -56,9 +56,9 @@ Things I learned:
 - Layout design with figma
 - HTML structure
 
-👉🏼 [Visit website](https://ferchoeth.github.io/batatabit-clon/)
+<a href="https://ferchoeth.github.io/batatabit-clon/" target="_blank">👉🏼 Visit website</a>
 
-👉🏼 [See the code](https://github.com/ferchoeth/batatabit-clon)
+<a href="https://github.com/ferchoeth/batatabit-clon" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -70,9 +70,9 @@ Things I learned:
 - Fetching data from API
 - App-based authentication
 
-👉🏼 [Find your favorite cat](https://ferchoeth.github.io/cat-picture-generator/)
+<a href="https://ferchoeth.github.io/cat-picture-generator/" target="_blank">👉🏼 Find your favorite cat</a>
 
-👉🏼 [See the code](https://github.com/ferchoeth/cat-picture-generator)
+<a href="https://github.com/ferchoeth/cat-picture-generator" target="_blank">👉🏼 See the code</a>
 
 
 <!--
