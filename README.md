@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a frontend developer Jr. and I'm excited about building awesome things.
+I’m currently learning React.
+
+The technologies I know are:
+
+- 🩻 HTML 
+- 💅 CSS
+- 🦾 JavaScrip
+
 <!--
 **ferchoeth/ferchoeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
