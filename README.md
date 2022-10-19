@@ -32,6 +32,21 @@ Things I learned:
 
 ---
 
+#### ✅ To-Do app
+
+Simple To-Do app created using React.
+
+Things I learned:
+- Build an app with React
+- Simple state management with React.Context
+- Use React Hooks
+
+<a href="https://ferchoeth.github.io/todo-react-app/" target="_blank">👉🏼 Start cooking!</a>
+
+<a href="https://github.com/ferchoeth/todo-react-app" target="_blank">👉🏼 See the code</a>
+
+---
+
 #### ⭐️ Top rated movies
 
 A website showing the top rated movies around the world. Data is obtain from The Movie Database API.
