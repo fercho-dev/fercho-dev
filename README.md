@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a frontend developer Jr. and I'm excited about building awesome things.
+I'm a jr. frontend developer and I'm excited about building awesome things.
 
 The technologies I know are:
 
