@@ -16,6 +16,22 @@ The technologies I know are:
 
 ## My projects
 
+#### 🧑🏼‍🍳 Foodie
+
+Find awesome recipes to take your cooking skills to the next level. You can also create your own recipes and share them with world.
+
+Things I learned:
+- Use React to build a client-side project
+- Implement Redux to manage the state of the application
+- Create a server-side API using Node.js and Express
+- Build a database model using Sequelize and Postgresql
+
+<a href="http://foodie-pi-tau.vercel.app/" target="_blank">👉🏼 Start cooking!</a>
+
+<a href="https://github.com/ferchoeth/Food-app" target="_blank">👉🏼 See the code</a>
+
+---
+
 #### ⭐️ Top rated movies
 
 A website showing the top rated movies around the world. Data is obtain from The Movie Database API.
