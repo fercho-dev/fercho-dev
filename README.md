@@ -41,7 +41,7 @@ Things I learned:
 - Simple state management with React.Context
 - Use React Hooks
 
-<a href="https://ferchoeth.github.io/todo-react-app/" target="_blank">👉🏼 Start cooking!</a>
+<a href="https://ferchoeth.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
 
 <a href="https://github.com/ferchoeth/todo-react-app" target="_blank">👉🏼 See the code</a>
 
