@@ -2,8 +2,6 @@
 
 I'm a frontend developer Jr. and I'm excited about building awesome things.
 
-**I’m currently learning React.**
-
 The technologies I know are:
 
 - 🩻 HTML
@@ -12,7 +10,7 @@ The technologies I know are:
 - 💠 React
 - 🟩 Node.js
 
-<img src="./html-5.png" alt="html" width="100"/> <img src="./css-3.png" alt="html" width="100"/> <img src="./js.png" alt="html" width="80"/>
+<img src="./html.png" alt="html" width="80"/> <img src="./css-3.png" alt="css" width="80"/> <img src="./js.png" alt="javascript" width="80"/> <img src="./react.png" alt="react" width="80"/> <img src="./nodejs.png" alt="node" width="80"/>
 
 ---
 
