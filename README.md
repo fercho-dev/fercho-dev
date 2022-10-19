@@ -9,6 +9,8 @@ The technologies I know are:
 - 🩻 HTML
 - 💅 CSS
 - 🦾 JavaScript
+- 💠 React
+- 🟩 Node.js
 
 <img src="./html-5.png" alt="html" width="100"/> <img src="./css-3.png" alt="html" width="100"/> <img src="./js.png" alt="html" width="80"/>
 
