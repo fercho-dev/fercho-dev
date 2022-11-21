@@ -1,16 +1,17 @@
-## 👋 Hi there
+## 👋 Hi, there
 
-I'm a jr. frontend developer and I'm excited about building awesome things.
+I'm a software developer who is passionate about technology and the opportunity it gives us to build a better future.
 
 The technologies I know are:
 
 - 🩻 HTML
 - 💅 CSS
 - 🦾 JavaScript
+- 🗂️ TypeScript
 - 💠 React
 - 🟩 Node.js
 
-<img src="./html.png" alt="html" width="80"/> <img src="./css-3.png" alt="css" width="80"/> <img src="./js.png" alt="javascript" width="80"/> <img src="./react.png" alt="react" width="80"/> <img src="./nodejs.png" alt="node" width="80"/>
+<img src="./html.png" alt="html" width="80"/> <img src="./css-3.png" alt="css" width="80"/> <img src="./js.png" alt="javascript" width="80"/> <img src="./typescript.png" alt="javascript" width="80"/> <img src="./react.png" alt="react" width="80"/> <img src="./nodejs.png" alt="node" width="80"/>
 
 ---
 
