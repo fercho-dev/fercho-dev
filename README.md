@@ -21,7 +21,7 @@ The technologies I know are:
 
 Find awesome recipes to take your cooking skills to the next level. You can also create your own recipes and share them with world.
 
-Things I learned:
+In this project I learned how to:
 - Use React to build a client-side project
 - Implement Redux to manage the state of the application
 - Create a server-side API using Node.js and Express
@@ -37,9 +37,9 @@ Things I learned:
 
 Simple To-Do app created using React.
 
-Things I learned:
+In this project I learned how to:
 - Build an app with React
-- Simple state management with React.Context
+- Create a simple state management with React.Context
 - Use React Hooks
 
 <a href="https://ferchoeth.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
@@ -52,7 +52,7 @@ Things I learned:
 
 A website showing the top rated movies around the world. Data is obtain from The Movie Database API.
 
-Things I learned:
+In this project I learned how to:
 - Fetch data from an API
 - Use loading skeletons
 - Apply intersection observer to optimize image loading
@@ -68,7 +68,7 @@ Things I learned:
 
 Three creatures, made of water, fire, and plants respectively, fight for the honor of their family. Any similarity with other games is pure coincidence 😄.
 
-Things I learned:
+In this project I learned how to:
 - Draw with canvas and JavaScript
 - Generate event listeners
 - Implement classes on JavaScript
@@ -83,10 +83,10 @@ Things I learned:
 
 Batatabit is a tool to monitorize cryptocurrencies activity.
 
-Things I learned:
-- Responsive design with media queries
-- Layout design with figma
-- HTML structure
+In this project I learned how to:
+- Make a responsive design with media queries
+- Create a layout design with figma
+- Use a semantic HTML structure
 
 <a href="https://ferchoeth.github.io/batatabit-clon/" target="_blank">👉🏼 Visit website</a>
 
@@ -98,9 +98,9 @@ Things I learned:
 
 We all love cats, and here you can get awesome images.
 
-Things I learned:
-- Fetching data from API
-- App-based authentication
+In this project I learned how to:
+- Fetch data from API
+- Implement app-based authentication
 
 <a href="https://ferchoeth.github.io/cat-picture-generator/" target="_blank">👉🏼 Find your favorite cat</a>
 
