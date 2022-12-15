@@ -40,6 +40,22 @@ The technologies I know are:
 
 ## My projects
 
+#### 💰 CoinTracker
+
+The perfect app for cryptocurrency users who want to keep track of their assets, monitor different cryptocurrencies and/or learn about the most relevant news in the crypto ecosystem.
+
+In this project I learned how to:
+- Use TypeScript as the main programming language
+- Build a database model using Mongoose and MongoDB
+- Integrate Stripe to receive payments
+- Integrate BitPay to receive payments in cryptocurrencies
+
+<a href="https://pf-03-cointracker.vercel.app/" target="_blank">👉🏼 Visit website</a>
+
+<a href="https://github.com/PF-03/CoinTracker" target="_blank">👉🏼 See the code</a>
+
+---
+
 #### 🧑🏼‍🍳 Foodie
 
 Find awesome recipes to take your cooking skills to the next level. You can also create your own recipes and share them with world.
