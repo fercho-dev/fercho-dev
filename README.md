@@ -11,9 +11,6 @@ You can find me on:
   <a href="https://twitter.com/ferchoeth">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://ferchoeth.substack.com/">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Substack&color=FF6719&logo=Substack&logoColor=FFFFFF&label="/>
-  </a>
 </p>
 
 ---
