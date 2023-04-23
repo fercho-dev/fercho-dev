@@ -65,7 +65,7 @@ In this project I learned how to:
 
 <a href="http://foodie-pi-tau.vercel.app/" target="_blank">👉🏼 Start cooking!</a>
 
-<a href="https://github.com/ferchoeth/Food-app" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/Food-app" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -78,9 +78,9 @@ In this project I learned how to:
 - Create a simple state management with React.Context
 - Use React Hooks
 
-<a href="https://ferchoeth.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
+<a href="https://fercho-dev.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
 
-<a href="https://github.com/ferchoeth/todo-react-app" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/todo-react-app" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -94,9 +94,9 @@ In this project I learned how to:
 - Apply intersection observer to optimize image loading
 - Use location.hash to navigate in the app
 
-<a href="https://ferchoeth.github.io/top-rated-movies/" target="_blank">👉🏼 Discover your new favorite movie</a>
+<a href="https://fercho-dev.github.io/top-rated-movies/" target="_blank">👉🏼 Discover your new favorite movie</a>
 
-<a href="https://github.com/ferchoeth/top-rated-movies" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/top-rated-movies" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -109,9 +109,9 @@ In this project I learned how to:
 - Generate event listeners
 - Implement classes on JavaScript
 
-<a href="https://ferchoeth.github.io/Batalla-de-Mokepones/" target="_blank">👉🏼 Go fight</a>
+<a href="https://fercho-dev.github.io/Batalla-de-Mokepones/" target="_blank">👉🏼 Go fight</a>
 
-<a href="https://github.com/ferchoeth/Batalla-de-Mokepones" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/Batalla-de-Mokepones" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -124,9 +124,9 @@ In this project I learned how to:
 - Create a layout design with figma
 - Use a semantic HTML structure
 
-<a href="https://ferchoeth.github.io/batatabit-clon/" target="_blank">👉🏼 Visit website</a>
+<a href="https://fercho-dev.github.io/batatabit-clon/" target="_blank">👉🏼 Visit website</a>
 
-<a href="https://github.com/ferchoeth/batatabit-clon" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/batatabit-clon" target="_blank">👉🏼 See the code</a>
 
 ---
 
@@ -138,9 +138,9 @@ In this project I learned how to:
 - Fetch data from API
 - Implement app-based authentication
 
-<a href="https://ferchoeth.github.io/cat-picture-generator/" target="_blank">👉🏼 Find your favorite cat</a>
+<a href="https://fercho-dev.github.io/cat-picture-generator/" target="_blank">👉🏼 Find your favorite cat</a>
 
-<a href="https://github.com/ferchoeth/cat-picture-generator" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/cat-picture-generator" target="_blank">👉🏼 See the code</a>
 
 
 <!--
