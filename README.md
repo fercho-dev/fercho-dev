@@ -1,4 +1,4 @@
-![ferchoeth-banner](./cover.png)
+![ferchoeth-banner](./linkedin-new-cover.png)
 ## 👋 Hi, there
 
 I'm a software developer who is passionate about technology and the opportunity it gives us to build a better future.
