@@ -3,12 +3,14 @@
 
 I'm a software developer who is passionate about technology and the opportunity it gives us to build a better future.
 
+Software developer based in Mexico. I transitioned from pursuing university studies in Political Science to immersing myself in the world of tech and development. This shift wasn't arbitrary; I recognized technology as a powerful means to add value and positively impact people's lives. My personal goal is to design and build digital products that truly benefit their users. I am on the lookout for opportunities where I can merge my diverse background with tech innovation to create impactful solutions. 🚀
+
 You can find me on:
 <p>
-  <a href="https://www.linkedin.com/in/ferchoeth/">
+  <a href="https://www.linkedin.com/in/ferchodev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ferchoeth">
+  <a href="https://twitter.com/fercho_dev_">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
@@ -23,7 +25,7 @@ The technologies I know are:
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs%20-%23764ABC.svg?&style=for-the-badge&logo=nextjs&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -36,6 +38,54 @@ The technologies I know are:
 ---
 
 ## My projects
+
+#### 🤖 English Partner
+
+A conversational IA that helps you learn English.
+
+Built using:
+- Next.js
+- GPT LLM
+- React.js
+- Node.js
+
+<a href="https://english-partner.vercel.app/" target="_blank">👉🏼 Start Learning</a>
+
+<a href="https://github.com/fercho-dev/english-partner" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### 🤖 CSS Wiki
+
+Compilation of resources to learn and use CSS.
+
+Built using:
+- Next.js
+- MongoDB
+- TypeScript
+
+<a href="https://www.csswiki.dev/" target="_blank">👉🏼 Learn CSS</a>
+
+<a href="https://github.com/fercho-dev/csswiki" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### 🤖 QuickCurriculum
+
+CV generator power by Artiﬁcial Inteligence. Allows you to create a resume in seconds.
+
+Built using:
+- Next.js
+- GPT LLM
+- Firebase Auth
+- React.js
+- Node.js
+
+<a href="https://www.quickcurriculum.com/" target="_blank">👉🏼 Create Resume</a>
+
+<a href="https://github.com/fercho-dev/quickcurriculum" target="_blank">👉🏼 See the code</a>
+
+---
 
 #### 💰 CoinTracker
 
@@ -81,52 +131,6 @@ In this project I learned how to:
 <a href="https://fercho-dev.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
 
 <a href="https://github.com/fercho-dev/todo-react-app" target="_blank">👉🏼 See the code</a>
-
----
-
-#### ⭐️ Top rated movies
-
-A website showing the top rated movies around the world. Data is obtain from The Movie Database API.
-
-In this project I learned how to:
-- Fetch data from an API
-- Use loading skeletons
-- Apply intersection observer to optimize image loading
-- Use location.hash to navigate in the app
-
-<a href="https://fercho-dev.github.io/top-rated-movies/" target="_blank">👉🏼 Discover your new favorite movie</a>
-
-<a href="https://github.com/fercho-dev/top-rated-movies" target="_blank">👉🏼 See the code</a>
-
----
-
-#### 👾 Mokepones fight
-
-Three creatures, made of water, fire, and plants respectively, fight for the honor of their family. Any similarity with other games is pure coincidence 😄.
-
-In this project I learned how to:
-- Draw with canvas and JavaScript
-- Generate event listeners
-- Implement classes on JavaScript
-
-<a href="https://fercho-dev.github.io/Batalla-de-Mokepones/" target="_blank">👉🏼 Go fight</a>
-
-<a href="https://github.com/fercho-dev/Batalla-de-Mokepones" target="_blank">👉🏼 See the code</a>
-
----
-
-#### 💸 Batatabit landing page
-
-Batatabit is a tool to monitorize cryptocurrencies activity.
-
-In this project I learned how to:
-- Make a responsive design with media queries
-- Create a layout design with figma
-- Use a semantic HTML structure
-
-<a href="https://fercho-dev.github.io/batatabit-clon/" target="_blank">👉🏼 Visit website</a>
-
-<a href="https://github.com/fercho-dev/batatabit-clon" target="_blank">👉🏼 See the code</a>
 
 ---
 
