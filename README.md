@@ -1,4 +1,5 @@
-![ferchoeth-banner](./linkedin-new-cover.png)
+![new-linkedin-cover](https://github.com/fercho-dev/fercho-dev/assets/57052457/40734cfc-56c8-4d78-9f88-17a205092cef)
+
 ## 👋 Hi, there
 
 I'm a software developer who is passionate about technology and the opportunity it gives us to build a better future.
