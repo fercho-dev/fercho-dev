@@ -120,18 +120,16 @@ In this project I learned how to:
 
 ---
 
-#### ✅ To-Do app
+#### 👨🏼‍🍳 Recipe Maker
 
-Simple To-Do app created using React.
+A whatsapp chatbot that can teach you how to cook your favorite recipes.
 
 In this project I learned how to:
-- Build an app with React
-- Create a simple state management with React.Context
-- Use React Hooks
+- Use the Whatsapp API Cloud
+- Work with Whatsapp Webhoooks
+- Use OpenAI Vision API to analyze images
 
-<a href="https://fercho-dev.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
-
-<a href="https://github.com/fercho-dev/todo-react-app" target="_blank">👉🏼 See the code</a>
+<a href="https://github.com/fercho-dev/recipe-maker" target="_blank">👉🏼 See the code</a>
 
 ---
 
