@@ -82,7 +82,7 @@ Built using:
 - React.js
 - Node.js
 
-<a href="https://www.quickcurriculum.com/" target="_blank">👉🏼 Create Resume</a>
+<a href="https://quickcurriculum.vercel.app/" target="_blank">👉🏼 Create Resume</a>
 
 <a href="https://github.com/fercho-dev/quickcurriculum" target="_blank">👉🏼 See the code</a>
 
